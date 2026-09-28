@@ -1,0 +1,3 @@
+# Screenshots of the original site contain third-party logos and player photos.
+# Keep them local for side-by-side QA only; do not commit them.
+original-*
